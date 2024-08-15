@@ -82,3 +82,5 @@ def calcValorFinal():
             break  
 
 calcValorFinal()
+#teste
+#teste pelo vscode
